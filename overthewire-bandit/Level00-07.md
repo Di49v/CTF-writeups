@@ -1,6 +1,6 @@
 # Bandit Wargame: Levels 0 to 7
 
-**Date:** 2025-12-01
+**Date:** 2025-12-01  
 **Difficulty**: Very easy
 
 ---
