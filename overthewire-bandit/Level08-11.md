@@ -2,7 +2,7 @@
 
 **Date:** 2025-12-04
 **Difficulty**: Easy
-**Key Concepts:** Line-wise operations on files.
+**Key Concepts:** Line-wise operations on files, [[grep]], [[sort]], [[uniq]], [[strings]], [[base64]]
 
 ### Level 7 -> 8 
 * **Objective:** The password for the next level is stored in the file **data.txt** next to the word **"millionth"**

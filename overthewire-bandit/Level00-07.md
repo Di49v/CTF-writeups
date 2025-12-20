@@ -2,6 +2,7 @@
 
 **Date:** 2025-12-01  
 **Difficulty**: Very easy
+**Concepts used:** [[nano]], [[IPQoS throughput]], [[ssh]], [[cat]], [[-exec]], [[find]], [[reset]]
 
 ---
 
